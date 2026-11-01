@@ -3,4 +3,4 @@ Financial analysis of various companies using python. Used API call to take the 
 @author : Laksh Sadhwani
 @College : National Institute of Technology Karnataka
 @Linkedin : https://www.linkedin.com/in/laksh-sadhwani-342692183/
-@Github : https://github.com/Laaaaksh
+@Github : https://github.com/attentionfs
